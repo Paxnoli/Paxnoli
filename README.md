@@ -5,9 +5,7 @@
 <table align="center">
 <tr>
 <td width="74%" align="center" valign="middle">
-<a href="https://github.com/Paxnoli">
 <img width="100%" src="./assets/hero.png?v=6" alt="范恩齐 Paxnoli 个人主页主视觉">
-</a>
 </td>
 <td width="26%" align="center" valign="middle">
 <img width="100%" src="./assets/avatar.png?v=6" alt="范恩齐个人照片">
@@ -18,20 +16,16 @@
 <img src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&weight=600&size=22&duration=2800&pause=700&color=0969DA&center=true&vCenter=true&width=850&lines=%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6+%C2%B7+%E9%80%9A%E4%BF%A1%E5%B7%A5%E7%A8%8B;%E6%8E%A8%E5%85%8D%E5%8E%BB%E5%90%91%EF%BC%9A%E5%8C%97%E4%BA%AC%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6;%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD+%C2%B7+%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89+%C2%B7+%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86" alt="个人介绍">
 
 <p>
-<a href="#profile"><img height="34" src="./assets/nav-profile.png?v=6" alt="个人简介"></a>
-<a href="#research"><img height="34" src="./assets/nav-research.png?v=6" alt="研究兴趣"></a>
-<a href="#honors"><img height="34" src="./assets/nav-honors.png?v=6" alt="荣誉奖项"></a>
-<a href="#projects"><img height="34" src="./assets/nav-projects.png?v=6" alt="项目经历"></a>
-<a href="#journey"><img height="34" src="./assets/nav-journey.png?v=6" alt="发展历程"></a>
-<a href="#campus"><img height="34" src="./assets/nav-campus.png?v=6" alt="校园实践"></a>
-<a href="#future"><img height="34" src="./assets/nav-future.png?v=6" alt="未来规划"></a>
+<a href="#profile"><img height="36" src="./assets/nav-profile.png?v=6" alt="01 个人简介"></a>
+<a href="#research"><img height="36" src="./assets/nav-research.png?v=6" alt="02 研究兴趣"></a>
+<a href="#honors"><img height="36" src="./assets/nav-honors.png?v=6" alt="03 荣誉奖项"></a>
+<a href="#projects"><img height="36" src="./assets/nav-projects.png?v=6" alt="04 项目经历"></a>
+<a href="#journey"><img height="36" src="./assets/nav-journey.png?v=6" alt="05 个人历程"></a>
+<a href="#news"><img height="36" src="./assets/nav-news.png?v=6" alt="06 个人资讯"></a>
+<a href="#future"><img height="36" src="./assets/nav-future.png?v=6" alt="07 未来规划"></a>
+<a href="#visitors"><img height="36" src="./assets/nav-visitors.png?v=6" alt="08 访客记录"></a>
 </p>
 
-<p>
-<a href="mailto:15668969293@163.com"><img height="34" src="./assets/button-email.png?v=6" alt="Email 联系我"></a>
-<a href="https://github.com/Paxnoli"><img height="34" src="./assets/button-github.png?v=6" alt="GitHub 主页"></a>
-<a href="#visitors"><img height="34" src="./assets/nav-visitor.png?v=6" alt="访客记录"></a>
-</p>
 </div>
 
 <p align="center"><img width="100%" src="./assets/divider.svg?v=6" alt="分隔线"></p>
@@ -40,7 +34,7 @@
 ## 01 · 个人简介
 
 <div align="center">
-<img width="100%" src="./assets/overview.png?v=6" alt="范恩齐个人简介：东北大学、通信工程、中国辽宁沈阳、CET-6 492、推免去向北京理工大学、基础工具">
+<img width="100%" src="./assets/overview.png?v=6" alt="范恩齐个人简介：东北大学、通信工程、中国辽宁沈阳、CET-6 492、推免北京理工大学、技能工具">
 </div>
 
 我是一名通信工程本科生，推免去向为**北京理工大学**，现阶段侧重**通信信号处理**。兴趣方向包括**具身智能、计算机视觉与信号处理**，希望把信号建模、感知算法与智能系统结合起来，在真实问题中持续积累研究与实践能力。
@@ -155,7 +149,7 @@
 ## 03 · 荣誉奖项
 
 <div align="center">
-<img width="100%" src="./assets/honors.png?v=6" alt="范恩齐荣誉奖项视觉墙：英特尔杯全国二等奖、中国机器人与人工智能大赛全国二等奖、瑞萨杯全国三等奖、国家级大创、国家励志奖学金、蓝桥杯省二等奖、数学建模省三等奖和多项校级荣誉">
+<img width="100%" src="./assets/honors.png?v=6" alt="范恩齐荣誉奖项视觉墙：英特尔杯全国二等奖、中国机器人与人工智能大赛全国二等奖、国家级大创、国家励志奖学金、蓝桥杯省二等奖、数学建模省三等奖和多项校级荣誉">
 </div>
 
 这些荣誉既代表了项目结果，也记录了在**算法设计、工程实现、团队协作和持续投入**方面的积累。相较于单一成绩，我更看重每一段竞赛与项目经历中形成的可迁移能力。
@@ -180,11 +174,6 @@
 <td align="center"><code>2026</code></td>
 <td align="center">中国机器人与人工智能大赛</td>
 <td align="center">全国二等奖</td>
-</tr>
-<tr>
-<td align="center"><code>2026</code></td>
-<td align="center">“瑞萨杯”全国大学生电子设计竞赛信息科技前沿专题赛</td>
-<td align="center">全国三等奖</td>
 </tr>
 <tr>
 <td align="center"><code>2025</code></td>
@@ -221,7 +210,7 @@
 </details>
 
 <details open>
-<summary><b>全国二等奖获奖证书</b></summary>
+<summary><b>获奖证书</b></summary>
 
 <br>
 
@@ -230,6 +219,7 @@
 </div>
 
 </details>
+
 <p align="center"><img width="100%" src="./assets/divider.svg?v=6" alt="分隔线"></p>
 
 <a id="projects"></a>
@@ -290,9 +280,9 @@
 </tr>
 </table>
 
-**项目成果**
+**项目团队成果**
 
-`国家级创新训练计划` · `“瑞萨杯”信息科技前沿专题赛全国三等奖` · `核心技术验证完成`
+该项目团队获得“瑞萨杯”全国大学生电子设计竞赛信息科技前沿专题赛全国三等奖；项目获得国家级大学生创新训练计划立项，并完成核心技术验证。
 
 <div align="center">
 <img width="100%" src="./assets/vision-gallery.png?v=6" alt="嵌入式双目三维实景成像系统项目图与测试结果">
@@ -370,7 +360,7 @@
 <p align="center"><img width="100%" src="./assets/divider.svg?v=6" alt="分隔线"></p>
 
 <a id="campus"></a>
-## 06 · 校园实践与综合素质
+### 校园实践与综合素质
 
 <div align="center">
 <img width="100%" src="./assets/campus.png?v=6" alt="范恩齐校园实践与综合素质：组织与领导、思想引领与社会责任、关键能力淬炼">
@@ -404,7 +394,7 @@
 <p align="center"><img width="100%" src="./assets/divider.svg?v=6" alt="分隔线"></p>
 
 <a id="evaluation"></a>
-## 07 · 自我评价
+### 自我评价
 
 <div align="center">
 <img width="100%" src="./assets/evaluation.png?v=6" alt="范恩齐自我评价：沟通与协作、责任与执行、工程与实践、学习与钻研">
@@ -437,8 +427,28 @@
 
 <p align="center"><img width="100%" src="./assets/divider.svg?v=6" alt="分隔线"></p>
 
+<a id="news"></a>
+## 06 · 个人资讯
+
+<div align="center">
+<img width="92%" src="./assets/news.gif?v=6" alt="范恩齐个人资讯滚动展示">
+</div>
+
+<details>
+<summary><b>查看文字版个人资讯</b></summary>
+
+<br>
+
+- **2026年7月**：朱子琛、胡天崴和我共同前往上海交通大学参加“英特尔杯”全国大学生电子设计竞赛嵌入式 AI 专题赛，荣获全国二等奖。感谢两位队友和我的共同努力。
+- **2025年11月**：范恩齐作为全国大学生创新创业项目的负责人，同孙逢阳（核心成员）、赵熠佳、任美涵、牟王希共五名成员组成团队，获评校级资助项目，并于2026年4月获评国家级。感谢四位成员的努力与付出。
+- **2025年9月**：范恩齐同两位队友张修齐、孙逢阳参加“高教社杯”全国大学生数学建模竞赛，以原班人马再次获得辽宁省三等奖。
+
+</details>
+
+<p align="center"><img width="100%" src="./assets/divider.svg?v=6" alt="分隔线"></p>
+
 <a id="future"></a>
-## 08 · 未来规划
+## 07 · 未来规划
 
 <div align="center">
 <img width="100%" src="./assets/future.png?v=6" alt="范恩齐未来规划：信号与数学基础、感知与智能交叉、科研闭环">
@@ -472,25 +482,20 @@
 <p align="center"><img width="100%" src="./assets/divider.svg?v=6" alt="分隔线"></p>
 
 <a id="visitors"></a>
-## 09 · 访客记录
+## 08 · 访客记录
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Paxnoli&label=Profile%20Views&color=1F4E79&style=for-the-badge" alt="主页访问量">
-<img src="https://img.shields.io/github/followers/Paxnoli?label=Followers&style=for-the-badge&color=6B5B95" alt="GitHub 关注者">
-<img src="https://img.shields.io/github/stars/Paxnoli?affiliations=OWNER&label=Stars&style=for-the-badge&color=A6782E" alt="GitHub Stars">
 
-<br><br>
+感谢你的访问。欢迎通过上方编号导航继续了解我的学习背景、研究方向、项目经历与个人资讯。
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Paxnoli&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=1F4E79&icon_color=6B5B95&text_color=5F6368" alt="GitHub 数据统计">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paxnoli&layout=compact&langs_count=6&theme=default&hide_border=true&bg_color=FFFFFF&title_color=1F4E79&text_color=5F6368" alt="常用编程语言">
+如果这些内容让你产生了交流的意愿，期待未来能在学术、科研或项目中有更多连接。
 
-<br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Paxnoli&theme=github&hide_border=true&area=true&bg_color=FFFFFF&color=1F4E79&line=6B5B95&point=A6782E" alt="GitHub 贡献动态">
 </div>
 
 <p align="center"><img width="100%" src="./assets/divider.svg?v=6" alt="分隔线"></p>
 
 <div align="center">
-<img width="100%" src="./assets/footer.png?v=6" alt="持续学习、持续探索、持续创造">
+
+**持续学习 · 持续探索 · 持续创造**
+
 </div>
