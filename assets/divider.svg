@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2200" height="54" viewBox="0 0 2200 54" fill="none">
+  <defs>
+    <linearGradient id="line" x1="120" y1="27" x2="2080" y2="27" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1F4E79" stop-opacity="0"/>
+      <stop offset=".22" stop-color="#1F4E79" stop-opacity=".58"/>
+      <stop offset=".5" stop-color="#6B5B95" stop-opacity=".58"/>
+      <stop offset=".78" stop-color="#3A6B5A" stop-opacity=".48"/>
+      <stop offset="1" stop-color="#3A6B5A" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="250" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#DDEAF5" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="120" y="26" width="1960" height="1.5" rx=".75" fill="url(#line)"/>
+  <rect x="-250" y="24.75" width="250" height="4" rx="2" fill="url(#sweep)">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="2450 0" dur="8s" repeatCount="indefinite"/>
+  </rect>
+  <g transform="translate(1100 27)">
+    <rect x="-10" y="-10" width="20" height="20" rx="4" transform="rotate(45)" fill="#FFFFFF" fill-opacity=".96" stroke="#1F4E79" stroke-opacity=".58"/>
+    <circle r="2" fill="#A6782E" fill-opacity=".88">
+      <animate attributeName="opacity" values=".35;1;.35" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
