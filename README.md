@@ -5,36 +5,41 @@
 <table align="center">
 <tr>
 <td width="74%" align="center" valign="middle">
-<img width="100%" src="./assets/hero.png?v=6" alt="范恩齐 Paxnoli 个人主页主视觉">
+<img width="100%" src="./assets/hero.png?v=7" alt="范恩齐 Paxnoli 个人主页主视觉">
 </td>
 <td width="26%" align="center" valign="middle">
-<img width="100%" src="./assets/avatar.png?v=6" alt="范恩齐个人照片">
+<img width="100%" src="./assets/avatar.png?v=7" alt="范恩齐个人照片">
 </td>
 </tr>
 </table>
 
-<img src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&weight=600&size=22&duration=2800&pause=700&color=0969DA&center=true&vCenter=true&width=850&lines=%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6+%C2%B7+%E9%80%9A%E4%BF%A1%E5%B7%A5%E7%A8%8B;%E6%8E%A8%E5%85%8D%E5%8E%BB%E5%90%91%EF%BC%9A%E5%8C%97%E4%BA%AC%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6;%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD+%C2%B7+%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89+%C2%B7+%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86" alt="个人介绍">
+<img src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&weight=800&size=24&duration=2800&pause=700&color=0969DA&center=true&vCenter=true&width=850&lines=%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6+%C2%B7+%E9%80%9A%E4%BF%A1%E5%B7%A5%E7%A8%8B;%E6%8E%A8%E5%85%8D%E5%8E%BB%E5%90%91%EF%BC%9A%E5%8C%97%E4%BA%AC%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6;%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD+%C2%B7+%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89+%C2%B7+%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86" alt="Personal introduction">
 
-<p>
-<a href="#profile"><img height="36" src="./assets/nav-profile.png?v=6" alt="01 个人简介"></a>
-<a href="#research"><img height="36" src="./assets/nav-research.png?v=6" alt="02 研究兴趣"></a>
-<a href="#honors"><img height="36" src="./assets/nav-honors.png?v=6" alt="03 荣誉奖项"></a>
-<a href="#projects"><img height="36" src="./assets/nav-projects.png?v=6" alt="04 项目经历"></a>
-<a href="#journey"><img height="36" src="./assets/nav-journey.png?v=6" alt="05 个人历程"></a>
-<a href="#news"><img height="36" src="./assets/nav-news.png?v=6" alt="06 个人资讯"></a>
-<a href="#future"><img height="36" src="./assets/nav-future.png?v=6" alt="07 未来规划"></a>
-<a href="#visitors"><img height="36" src="./assets/nav-visitors.png?v=6" alt="08 访客记录"></a>
-</p>
+<table align="center">
+<tr>
+<td align="center"><h3><a href="#profile"><kbd>01<br>个人简介</kbd></a></h3></td>
+<td align="center"><h3><a href="#research"><kbd>02<br>研究兴趣</kbd></a></h3></td>
+<td align="center"><h3><a href="#honors"><kbd>03<br>荣誉奖项</kbd></a></h3></td>
+<td align="center"><h3><a href="#projects"><kbd>04<br>项目经历</kbd></a></h3></td>
+</tr>
+<tr>
+<td align="center"><h3><a href="#journey"><kbd>05<br>个人历程</kbd></a></h3></td>
+<td align="center"><h3><a href="#news"><kbd>06<br>个人资讯</kbd></a></h3></td>
+<td align="center"><h3><a href="#future"><kbd>07<br>未来规划</kbd></a></h3></td>
+<td align="center"><h3><a href="#visitors"><kbd>08<br>访客记录</kbd></a></h3></td>
+</tr>
+</table>
+
 
 </div>
 
-<p align="center"><img width="100%" src="./assets/divider.svg?v=6" alt="分隔线"></p>
+<p align="center"><img width="100%" src="./assets/divider.svg?v=7" alt="分隔线"></p>
 
 <a id="profile"></a>
 ## 01 · 个人简介
 
 <div align="center">
-<img width="100%" src="./assets/overview.png?v=6" alt="范恩齐个人简介：东北大学、通信工程、中国辽宁沈阳、CET-6 492、推免北京理工大学、技能工具">
+<img width="100%" src="./assets/overview.png?v=7" alt="范恩齐个人简介：东北大学、通信工程、中国辽宁沈阳、CET-6 492、推免北京理工大学、技能工具">
 </div>
 
 我是一名通信工程本科生，推免去向为**北京理工大学**，现阶段侧重**通信信号处理**。兴趣方向包括**具身智能、计算机视觉与信号处理**，希望把信号建模、感知算法与智能系统结合起来，在真实问题中持续积累研究与实践能力。
@@ -49,7 +54,7 @@
 <td align="center">东北大学 · 通信工程</td>
 </tr>
 <tr>
-<td align="center"><strong>推免去向</strong></td>
+<td align="center"><strong>升学去向</strong></td>
 <td align="center">北京理工大学</td>
 </tr>
 <tr>
@@ -73,7 +78,7 @@
 ### 方法与工具
 
 <div align="center">
-<img width="100%" src="./assets/skills.png?v=6" alt="范恩齐方法与工具：数学与信号、编程与仿真、硬件与嵌入式、视觉与学习">
+<img width="100%" src="./assets/skills.png?v=7" alt="范恩齐技能矩阵：C、C++、Python、Verilog、Jupyter、Keil、Quartus、Vivado、Multisim、LTSpice、FPGA、深度学习、多模态感知、嵌入式系统">
 </div>
 
 <table align="center" width="96%">
@@ -109,13 +114,13 @@
 </tr>
 </table>
 
-<p align="center"><img width="100%" src="./assets/divider.svg?v=6" alt="分隔线"></p>
+<p align="center"><img width="100%" src="./assets/divider.svg?v=7" alt="分隔线"></p>
 
 <a id="research"></a>
 ## 02 · 研究兴趣
 
 <div align="center">
-<img width="100%" src="./assets/research.png?v=6" alt="范恩齐研究兴趣：信号处理、具身智能与计算机视觉">
+<img width="100%" src="./assets/research.png?v=7" alt="范恩齐研究兴趣：信号处理、具身智能与计算机视觉">
 </div>
 
 我的学习与研究以**通信信号处理**为基础，同时关注**具身智能**与**计算机视觉**。我希望从信号建模、检测估计和感知算法出发，理解智能系统如何完成环境感知、任务理解与行动决策。
@@ -143,13 +148,13 @@
 </tr>
 </table>
 
-<p align="center"><img width="100%" src="./assets/divider.svg?v=6" alt="分隔线"></p>
+<p align="center"><img width="100%" src="./assets/divider.svg?v=7" alt="分隔线"></p>
 
 <a id="honors"></a>
 ## 03 · 荣誉奖项
 
 <div align="center">
-<img width="100%" src="./assets/honors.png?v=6" alt="范恩齐荣誉奖项视觉墙：英特尔杯全国二等奖、中国机器人与人工智能大赛全国二等奖、国家级大创、国家励志奖学金、蓝桥杯省二等奖、数学建模省三等奖和多项校级荣誉">
+<img width="100%" src="./assets/honors.png?v=7" alt="范恩齐荣誉奖项视觉墙：英特尔杯全国二等奖、中国机器人与人工智能大赛全国二等奖、国家级大创、国家励志奖学金、蓝桥杯省二等奖、数学建模省三等奖和多项校级荣誉">
 </div>
 
 这些荣誉既代表了项目结果，也记录了在**算法设计、工程实现、团队协作和持续投入**方面的积累。相较于单一成绩，我更看重每一段竞赛与项目经历中形成的可迁移能力。
@@ -215,12 +220,11 @@
 <br>
 
 <div align="center">
-<a href="./image/robot/英特尔杯获奖证书.jpg"><img width="100%" src="./assets/award-pair.png?v=6" alt="英特尔杯和中国机器人与人工智能大赛全国二等奖证书"></a>
+<a href="./image/robot/英特尔杯获奖证书.jpg"><img width="100%" src="./assets/award-pair.png?v=7" alt="英特尔杯和中国机器人与人工智能大赛全国二等奖证书"></a>
 </div>
 
 </details>
-
-<p align="center"><img width="100%" src="./assets/divider.svg?v=6" alt="分隔线"></p>
+<p align="center"><img width="100%" src="./assets/divider.svg?v=7" alt="分隔线"></p>
 
 <a id="projects"></a>
 ## 04 · 项目经历
@@ -256,7 +260,7 @@
 `国家级大创良好` · `英特尔杯全国二等奖` · `中国机器人与人工智能大赛全国二等奖`
 
 <div align="center">
-<img width="100%" src="./assets/robot-gallery.png?v=6" alt="智能双臂机器人项目海报与参赛团队合影">
+<img width="100%" src="./assets/robot-gallery.png?v=7" alt="智能双臂机器人项目海报与参赛团队合影">
 </div>
 
 ### 智“绘”立方 · 嵌入式双目三维实景成像系统
@@ -285,7 +289,7 @@
 该项目团队获得“瑞萨杯”全国大学生电子设计竞赛信息科技前沿专题赛全国三等奖；项目获得国家级大学生创新训练计划立项，并完成核心技术验证。
 
 <div align="center">
-<img width="100%" src="./assets/vision-gallery.png?v=6" alt="嵌入式双目三维实景成像系统项目图与测试结果">
+<img width="100%" src="./assets/vision-gallery.png?v=7" alt="嵌入式双目三维实景成像系统项目图与测试结果">
 </div>
 
 **其他项目实践**
@@ -305,13 +309,13 @@
 </tr>
 </table>
 
-<p align="center"><img width="100%" src="./assets/divider.svg?v=6" alt="分隔线"></p>
+<p align="center"><img width="100%" src="./assets/divider.svg?v=7" alt="分隔线"></p>
 
 <a id="journey"></a>
 ## 05 · 个人发展历程
 
 <div align="center">
-<img width="100%" src="./assets/timeline.png?v=6" alt="范恩齐个人发展时间轴：东北大学、双臂机器人、嵌入式 GPU、三维实景成像、数字水印、全国二等奖、北京理工大学">
+<img width="100%" src="./assets/timeline.png?v=7" alt="范恩齐个人发展时间轴：东北大学、双臂机器人、嵌入式 GPU、三维实景成像、数字水印、全国二等奖、北京理工大学">
 </div>
 
 <table align="center" width="92%">
@@ -357,13 +361,13 @@
 </tr>
 </table>
 
-<p align="center"><img width="100%" src="./assets/divider.svg?v=6" alt="分隔线"></p>
+<p align="center"><img width="100%" src="./assets/divider.svg?v=7" alt="分隔线"></p>
 
 <a id="campus"></a>
 ### 校园实践与综合素质
 
 <div align="center">
-<img width="100%" src="./assets/campus.png?v=6" alt="范恩齐校园实践与综合素质：组织与领导、思想引领与社会责任、关键能力淬炼">
+<img width="100%" src="./assets/campus.png?v=7" alt="范恩齐校园实践与综合素质：组织与领导、思想引领与社会责任、关键能力淬炼">
 </div>
 
 除科研和工程训练外，我也持续参与校园组织、公共服务与社会实践。这些经历帮助我在真实场景中提升沟通表达、资源统筹、团队协作和责任意识，也让我更重视技术之外的人与社会的真实需求。
@@ -391,13 +395,13 @@
 </tr>
 </table>
 
-<p align="center"><img width="100%" src="./assets/divider.svg?v=6" alt="分隔线"></p>
+<p align="center"><img width="100%" src="./assets/divider.svg?v=7" alt="分隔线"></p>
 
 <a id="evaluation"></a>
 ### 自我评价
 
 <div align="center">
-<img width="100%" src="./assets/evaluation.png?v=6" alt="范恩齐自我评价：沟通与协作、责任与执行、工程与实践、学习与钻研">
+<img width="100%" src="./assets/evaluation.png?v=7" alt="范恩齐自我评价：沟通与协作、责任与执行、工程与实践、学习与钻研">
 </div>
 
 <table align="center" width="88%">
@@ -425,13 +429,13 @@
 
 > 科研需要深度，工程需要落地，协作需要信任。我希望保持踏实、开放和持续学习的状态，在真实问题中不断验证并提升自己。
 
-<p align="center"><img width="100%" src="./assets/divider.svg?v=6" alt="分隔线"></p>
+<p align="center"><img width="100%" src="./assets/divider.svg?v=7" alt="分隔线"></p>
 
 <a id="news"></a>
 ## 06 · 个人资讯
 
 <div align="center">
-<img width="92%" src="./assets/news.gif?v=6" alt="范恩齐个人资讯滚动展示">
+<img width="92%" src="./assets/news.gif?v=7" alt="范恩齐个人资讯滚动展示">
 </div>
 
 <details>
@@ -445,13 +449,13 @@
 
 </details>
 
-<p align="center"><img width="100%" src="./assets/divider.svg?v=6" alt="分隔线"></p>
+<p align="center"><img width="100%" src="./assets/divider.svg?v=7" alt="分隔线"></p>
 
 <a id="future"></a>
 ## 07 · 未来规划
 
 <div align="center">
-<img width="100%" src="./assets/future.png?v=6" alt="范恩齐未来规划：信号与数学基础、感知与智能交叉、科研闭环">
+<img width="100%" src="./assets/future.png?v=7" alt="范恩齐未来展望：深度、闭环、价值">
 </div>
 
 未来将在**北京理工大学**继续学习与研究，以**通信信号处理**为根基，逐步拓展具身智能与计算机视觉的交叉方向。我希望形成“问题定义—方法设计—实验验证—系统落地”的研究闭环，让所学内容能够经得起理论分析与真实场景的双重检验。
@@ -479,7 +483,7 @@
 </tr>
 </table>
 
-<p align="center"><img width="100%" src="./assets/divider.svg?v=6" alt="分隔线"></p>
+<p align="center"><img width="100%" src="./assets/divider.svg?v=7" alt="分隔线"></p>
 
 <a id="visitors"></a>
 ## 08 · 访客记录
@@ -492,7 +496,7 @@
 
 </div>
 
-<p align="center"><img width="100%" src="./assets/divider.svg?v=6" alt="分隔线"></p>
+<p align="center"><img width="100%" src="./assets/divider.svg?v=7" alt="分隔线"></p>
 
 <div align="center">
 
