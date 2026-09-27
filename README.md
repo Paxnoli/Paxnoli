@@ -15,20 +15,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&weight=800&size=24&duration=2800&pause=700&color=0969DA&center=true&vCenter=true&width=850&lines=%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6+%C2%B7+%E9%80%9A%E4%BF%A1%E5%B7%A5%E7%A8%8B;%E6%8E%A8%E5%85%8D%E5%8E%BB%E5%90%91%EF%BC%9A%E5%8C%97%E4%BA%AC%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6;%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD+%C2%B7+%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89+%C2%B7+%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86" alt="Personal introduction">
 
-<table align="center">
-<tr>
-<td align="center"><h3><a href="#profile"><kbd>01<br>个人简介</kbd></a></h3></td>
-<td align="center"><h3><a href="#research"><kbd>02<br>研究兴趣</kbd></a></h3></td>
-<td align="center"><h3><a href="#honors"><kbd>03<br>荣誉奖项</kbd></a></h3></td>
-<td align="center"><h3><a href="#projects"><kbd>04<br>项目经历</kbd></a></h3></td>
-</tr>
-<tr>
-<td align="center"><h3><a href="#journey"><kbd>05<br>个人历程</kbd></a></h3></td>
-<td align="center"><h3><a href="#news"><kbd>06<br>个人资讯</kbd></a></h3></td>
-<td align="center"><h3><a href="#future"><kbd>07<br>未来规划</kbd></a></h3></td>
-<td align="center"><h3><a href="#visitors"><kbd>08<br>访客记录</kbd></a></h3></td>
-</tr>
-</table>
+<h3>
+<a href="#profile">01 个人简介</a>　·　<a href="#research">02 研究兴趣</a>　·　<a href="#honors">03 荣誉奖项</a>　·　<a href="#projects">04 项目经历</a>
+</h3>
+
+<h3>
+<a href="#journey">05 个人历程</a>　·　<a href="#news">06 个人资讯</a>　·　<a href="#future">07 未来规划</a>　·　<a href="#visitors">08 访客记录</a>
+</h3>
 
 
 </div>
@@ -435,7 +428,7 @@
 ## 06 · 个人资讯
 
 <div align="center">
-<img width="92%" src="./assets/news.gif?v=7" alt="范恩齐个人资讯滚动展示">
+<img width="92%" src="./assets/news.gif?v=8" alt="范恩齐个人资讯滚动展示">
 </div>
 
 <details>
@@ -443,9 +436,12 @@
 
 <br>
 
+- **2026年9月**：范恩齐保研至北京理工大学网络空间安全学院网络空间安全专业，期待将来取得一个优秀的学术成果。
 - **2026年7月**：朱子琛、胡天崴和我共同前往上海交通大学参加“英特尔杯”全国大学生电子设计竞赛嵌入式 AI 专题赛，荣获全国二等奖。感谢两位队友和我的共同努力。
 - **2025年11月**：范恩齐作为全国大学生创新创业项目的负责人，同孙逢阳（核心成员）、赵熠佳、任美涵、牟王希共五名成员组成团队，获评校级资助项目，并于2026年4月获评国家级。感谢四位成员的努力与付出。
 - **2025年9月**：范恩齐同两位队友张修齐、孙逢阳参加“高教社杯”全国大学生数学建模竞赛，以原班人马再次获得辽宁省三等奖。
+- **2024年11月**：范恩齐作为核心成员加入由佘黎煌老师指导的双臂机器人项目，同成员黄郑源、朱子琛、赵熠佳和康睿涵共同完成项目，获评国家级大学生创新创业训练计划良好项目。
+- **2024年9月**：范恩齐同队友张修齐、孙逢阳共同参加“高教社杯”全国大学生数学建模竞赛，并取得辽宁省三等奖。
 
 </details>
 
